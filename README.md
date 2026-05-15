@@ -322,6 +322,14 @@ sqlite3 data/llmusage.db "SELECT fetched_at, provider_id, substr(raw_response,1,
 
 ---
 
-## License
+## Disclaimer
 
-See repository for license information if applicable.
+This software is provided by **Lalit Nayyar** as-is, without warranty of any kind. Use it at your own risk.
+
+- You are responsible for securing your API keys, local database (`data/llmusage.db`), and log files.
+- This project is not affiliated with, endorsed by, or supported by OpenAI, Anthropic, Google, OpenRouter, DeepSeek, or any other LLM provider.
+- Usage figures, costs, and balances depend on each provider’s API; the app does not guarantee accuracy or completeness.
+- Estimated costs (e.g. Anthropic) are approximations only — refer to your provider’s billing dashboard for official amounts.
+
+**Author:** Lalit Nayyar  
+**Contact:** [lalitnayyar@gmail.com](mailto:lalitnayyar@gmail.com)
