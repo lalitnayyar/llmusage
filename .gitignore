@@ -6,3 +6,6 @@ __pycache__/
 data/*.db
 logs/
 .claude/
+CLAUDE.md
+planning/PLAN.md
+planning/requirement.md
